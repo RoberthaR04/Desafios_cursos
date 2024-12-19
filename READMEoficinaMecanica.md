@@ -12,3 +12,6 @@ O sistema de controle de oficina mecânica deverá:
 -Permitir a associação de mecânicos e equipes a ordens de serviço específicas.
 -Facilitar o cálculo de custos com base nos serviços prestados e peças utilizadas.
 -Organizar e monitorar o progresso das ordens de serviço, desde a criação até a conclusão.
+
+
+App utilizado para realizar a modelagem foi o Drawio (https://app.diagrams.net/)
